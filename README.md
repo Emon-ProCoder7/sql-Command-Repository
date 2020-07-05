@@ -13,7 +13,7 @@
 
 
 
-# *02.RPA Fraud Detection*
+# *02. RPA Fraud Detection*
 
 
 ## Project Goals
