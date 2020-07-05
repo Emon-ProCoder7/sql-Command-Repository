@@ -49,3 +49,18 @@
      Lets find all the emails of all users who received a campaign on website BBB.
    - Find all the emails of all users who received ad copy 2 in their campaign.
    - Find the emails for all users who received both a campaign and a test. These users will have non-empty entries in the campaign and test columns.
+   
+   
+   
+# *04. Davie's Burgers Subway Ad*
+
+
+## Project Goals
+   'Davie’s Burgers' the restaurant business has been booming and it is now looking to place a catchy advertisement in the local subway station. Lets help them dig into their orders table to see if there is anything interesting in there for a funny tagline!
+   
+   - How recent is this data?
+   - The special_instructions column stores the data where Davie’s Burgers customers leave a note for the kitchen or the delivery. Lets see the result to 20 rows.
+   - Let’s search for special instructions that have the word ‘sauce’. Are there any funny or interesting ones?
+   - Let’s search for special instructions that have the word ‘door’. Any funny or interesting ones?
+   - Let’s search for special instructions that have the word ‘box’. Any funny or interesting ones?
+   - Some of these are marketing gold! But what are their order numbers?
