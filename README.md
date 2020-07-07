@@ -1,4 +1,23 @@
-# *01. World Populations SQL*
+# *01. Trends in Startups*
+
+
+## Project Goals
+   The task was to write an article on the rising trends in the startup world. To get started with the research, I started with a project.sqlite file that contains a table called startups. It is a portfolio of some of the biggest names in the industry. Data collected from [TechCrunch](https://techcrunch.com/).
+   
+   - Calculating total number of companies in the table.
+   - We want to know the total value of all companies in this table.
+   - What is the highest amount raised by a startup at 'Seed' Stage?
+   - In what year was the oldest company on the list founded?
+   - Let's find out the valuations among different sectors:
+      - Average valuation, in each category.
+   - What are the most competitive markets?
+      - What are the most competitive markets?
+   - Let's see if there's a difference in startups sizes among different locations:
+      - What is the average size of a startup in each location, with average sizes above 500?
+   
+   
+
+# *02. World Populations SQL*
 
 
 ## Project Goals
@@ -13,7 +32,7 @@
 
 
 
-# *02. RPA Fraud Detection*
+# *03. RPA Fraud Detection*
 
 
 ## Project Goals
@@ -30,7 +49,7 @@
 
 
 
-# *03. RPA Customer Segmentation*
+# *04. RPA Customer Segmentation*
 
 
 ## Project Goals
@@ -52,7 +71,7 @@
    
    
    
-# *04. Davie's Burgers Subway Ad*
+# *05. Davie's Burgers Subway Ad*
 
 
 ## Project Goals
