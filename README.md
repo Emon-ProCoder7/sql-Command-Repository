@@ -5,10 +5,26 @@
    Four months into launching Codeflix, management asks to look into subscription churn rates. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
    Codeflix requires a minimum subscription length of 31 days, so a user can never start and end their subscription in the same month.
    - Calculation of the churn rates for the two segments over the three month period. Which segment has a lower churn rate?
+   
+   
+   
+   # *02. Marketing Click Through Rate Analytics*
+
+
+   ## Project Goals
+   CoolTShirts sells shirts of all kinds, as long as they are T-shaped and cool. Recently, CTS started a few marketing campaigns to increase website visits and purchases. Using touch attribution, they’d like to map their customers’ journey: from initial visit to purchase. They can use that information to optimize their marketing campaigns.I tried to answer following questions with sql query.
+   
+   - How many campaigns and sources does CoolTShirts use? Which source is used for each campaign?
+   - What pages are on the CoolTShirts website?
+   - How many first touches is each campaign responsible for?
+   - How many last touches is each campaign responsible for?
+   - How many visitors make a purchase?
+   - How many last touches on the purchase page is each campaign responsible for?
+   - CoolTShirts can re-invest in 5 campaigns. Given your findings in the project, which should they pick and why?
 
 
 
-# *01. World Populations II*
+# *03. World Populations II*
 
 
 ## Project Goals
@@ -24,7 +40,7 @@
 
 
 
-# *01. Trends in Startups*
+# *04. Trends in Startups*
 
 
 ## Project Goals
@@ -43,7 +59,7 @@
    
    
 
-# *02. World Populations SQL I*
+# *05. World Populations SQL I*
 
 
 ## Project Goals
@@ -58,7 +74,7 @@
 
 
 
-# *03. RPA Fraud Detection*
+# *06. RPA Fraud Detection*
 
 
 ## Project Goals
@@ -75,7 +91,7 @@
 
 
 
-# *04. RPA Customer Segmentation*
+# *07. RPA Customer Segmentation*
 
 
 ## Project Goals
@@ -97,7 +113,7 @@
    
    
    
-# *05. Davie's Burgers Subway Ad*
+# *08. Davie's Burgers Subway Ad*
 
 
 ## Project Goals
