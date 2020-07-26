@@ -4,7 +4,7 @@
 ## Project Goals
    Four months into launching Codeflix, management asks to look into subscription churn rates. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
    Codeflix requires a minimum subscription length of 31 days, so a user can never start and end their subscription in the same month.
-   - Calculation of the churn rates for the two segments over the three month period. Which segment has a lower churn rate?
+   - Calculation of the churn rates for the two segments over the three month period. Which segment has a lower churn rate? [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/01.Churn%20Rate.sql)
    
    
    
@@ -20,7 +20,7 @@
    - How many last touches is each campaign responsible for?
    - How many visitors make a purchase?
    - How many last touches on the purchase page is each campaign responsible for?
-   - CoolTShirts can re-invest in 5 campaigns. Given your findings in the project, which should they pick and why?
+   - CoolTShirts can re-invest in 5 campaigns. Given your findings in the project, which should they pick and why? [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/02.%20Marketing%20Click%20Through%20Rate%20Analytics.sql)
 
 
 
@@ -36,7 +36,7 @@
    - What country had the smallest population in 2007?
    - What is the average population of Poland during the time period covered by this dataset?
    - How many countries have the word “The” in their name?
-   - What was the total population of each continent in 2010?
+   - What was the total population of each continent in 2010? [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/03.%20Population_queries_II.sql)
 
 
 
@@ -55,7 +55,7 @@
    - What are the most competitive markets?
       - What are the most competitive markets?
    - Let's see if there's a difference in startups sizes among different locations:
-      - What is the average size of a startup in each location, with average sizes above 500?
+      - What is the average size of a startup in each location, with average sizes above 500? [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/04.Startups.sql)
    
    
 
@@ -70,7 +70,7 @@
    - What were the 10 lowest population countries in 2005?
    - What are all the distinct countries with a population of over 100 million in the year 2010?
    - How many countries in this dataset have the word “Islands” in their name?
-   - What is the difference in population between 2000 and 2010 in Indonesia?
+   - What is the difference in population between 2000 and 2010 in Indonesia? [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository)
 
 
 
@@ -87,7 +87,7 @@
    - There are some irregularities in the IP addresses where transactions are originating from.
      For example, any IP address beginning with ‘10.’ is reserved for internal use.
    - Users are making fraudulent transactions using a temporary email address service. These services provide a short-lived email that can be verified and then self-destructs.
-   - The finance department is looking for a specific transaction. They know that the transaction occurred from an ip address starting with ‘120.’ and their full name starts with ‘John’.
+   - The finance department is looking for a specific transaction. They know that the transaction occurred from an ip address starting with ‘120.’ and their full name starts with ‘John’. [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/06.%20RPA_FRAUD_DETECTION.sql)
 
 
 
@@ -109,7 +109,7 @@
      
      Lets find all the emails of all users who received a campaign on website BBB.
    - Find all the emails of all users who received ad copy 2 in their campaign.
-   - Find the emails for all users who received both a campaign and a test. These users will have non-empty entries in the campaign and test columns.
+   - Find the emails for all users who received both a campaign and a test. These users will have non-empty entries in the campaign and test columns. [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/07.%20RPA-Customer-Segmentation.sql)
    
    
    
@@ -124,4 +124,4 @@
    - Let’s search for special instructions that have the word ‘sauce’. Are there any funny or interesting ones?
    - Let’s search for special instructions that have the word ‘door’. Any funny or interesting ones?
    - Let’s search for special instructions that have the word ‘box’. Any funny or interesting ones?
-   - Some of these are marketing gold! But what are their order numbers?
+   - Some of these are marketing gold! But what are their order numbers? [click For The Project](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/08.%20Davie's%20Burgers%20Subway%20Ad.sql)
