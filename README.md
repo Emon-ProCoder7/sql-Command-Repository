@@ -1,8 +1,8 @@
-<p align='right'> 
-
-# *01. Churn Rates Calculation*
+<p align='left'> 
   <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
 </p>
+
+# *01. Churn Rates Calculation*
 
 ## Project Goals
    Four months into launching Codeflix, management asks to look into subscription churn rates. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
