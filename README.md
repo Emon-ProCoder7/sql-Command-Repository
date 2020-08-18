@@ -4,6 +4,7 @@
 
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
 
+<br><br><br>
 
 # *01. Churn Rates Calculation*
 
@@ -14,7 +15,7 @@
    
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/01.Churn%20Rate.sql)
    
-   
+<br><br><br>   
    
    # *02. Marketing Click Through Rate Analytics*
 
@@ -33,7 +34,7 @@
    
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/02.%20Marketing%20Click%20Through%20Rate%20Analytics.sql)
 
-
+<br><br><br>
 
 # *03. World Populations II*
 
@@ -53,6 +54,7 @@
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/03.%20Population_queries_II.sql)
 
 
+<br><br><br>
 
 # *04. Trends in Startups*
 
@@ -73,7 +75,7 @@
       
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/04.Startups.sql)
    
-   
+<br><br><br>   
 
 # *05. World Populations SQL I*
 
@@ -91,7 +93,7 @@
    
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository)
 
-
+<br><br><br>
 
 # *06. RPA Fraud Detection*
 
@@ -110,7 +112,7 @@
    
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/06.%20RPA_FRAUD_DETECTION.sql)
 
-
+<br><br><br>
 
 # *07. RPA Customer Segmentation*
 
@@ -135,7 +137,7 @@
    
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/07.%20RPA-Customer-Segmentation.sql)
    
-   
+<br><br><br>   
    
 # *08. Davie's Burgers Subway Ad*
 
