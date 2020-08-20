@@ -1,8 +1,7 @@
-<p align='left'> 
-  <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
-</p>
 
-[![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
+  
+
+<pre><a href="https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/"><img alt = 'Author' align='center' src="https://img.shields.io/badge/author-MdTabassumHossainEmon-orange"></a>  <a href="#"><img align='center' src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a> </pre>
 
 
 
