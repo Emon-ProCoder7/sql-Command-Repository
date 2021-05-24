@@ -8,8 +8,8 @@
 # *01. Churn Rates Calculation*
 
 ## Project Goals
-   Four months into launching Codeflix, management asks to look into subscription churn rates. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
-   Codeflix requires a minimum subscription length of 31 days, so a user can never start and end their subscription in the same month.
+   Four months into launching Codeflix, management asks to look into subscription churn rate. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
+   Codeflix requires a minimum subscription length of 31 days, so user can never start and end their subscription in the same month.
    - Calculation of the churn rates for the two segments over the three month period. Which segment has a lower churn rate?
    
    👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/01.Churn%20Rate.sql)
